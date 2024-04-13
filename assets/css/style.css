@@ -36,12 +36,12 @@ header {
 
 nav {
     max-width: 1440px;
-    padding: 16px 4%;
+    padding: 1rem 4%;
 }
 
 .logo {
     color: #000;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 
@@ -54,7 +54,7 @@ nav {
 
 .nav-list {
     display: flex;
-    gap: 50px;
+    gap: 3.1rem;
     text-transform: capitalize;
 }
 
@@ -95,25 +95,25 @@ nav {
 }
 
 .content-box {
-    width: 950px;
-    height: 380px;
-    border-radius: 10px;
+    width: 59.3rem;
+    height: 23.7rem;
+    border-radius: 0.6rem;
     margin: 6rem 4rem;
-    padding-inline: 37px;
-    padding-block: 37px;
+    padding-inline: 2.3rem;
+    padding-block: 2.3rem;
     background-color: #FFF3E3;
 }
 
 .content-box span {
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: bolder;
-    letter-spacing: 2px;
+    letter-spacing: 0.1rem;
     color: #333333;
     line-height: 1rem;
 }
 
 .content-box h1 {
-    font-size: 52px;
+    font-size: 3.2rem;
     color: #B88E2F;
     line-height: 1;
     margin-bottom: 1rem;
@@ -121,14 +121,14 @@ nav {
 
 .content-box p {
     color: #333333;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .content-box button {
-    margin: 46px 0 0;
+    margin: 2.8rem 0 0;
     border: none;
-    width: 200px;
-    height: 56px;
+    width: 12.5rem;
+    height: 3.5rem;
     font-weight: bolder;
     color: #fff;
     background: #B88E2F;
@@ -144,7 +144,7 @@ nav {
 /* ============= SECTION SHOP ============= */
 
 #shop h1 {
-    font-size: 40px;
+    font-size: 2.5rem;
     padding: 3rem 1.6rem 2rem;
     font-weight: bolder;
     text-align: center;
@@ -160,8 +160,8 @@ nav {
 }
 
 .images-shop {
-    width: 285px;
-    height: 335px;
+    width: 17.8rem;
+    height: 20.9rem;
     background: #F4F5F7;
 }
 
@@ -194,13 +194,13 @@ nav {
 
 .info h4 {
     position: absolute;
-    font-size: 24px;
+    font-size: 1.5rem;
     cursor: pointer;
 }
 
 .info p {
     color: #898989;
-    font-size: 16px;
+    font-size: 1rem;
     padding-top: 1rem;
 }
 
@@ -209,8 +209,8 @@ nav {
 }
 
 .btn button {
-    width: 245px;
-    height: 48px;
+    width: 15.3rem;
+    height: 3rem;
     color: #B88E2F;
     background: none;
     border-style: solid;
@@ -222,7 +222,7 @@ nav {
 /* ============= SECTION ABOUT ============= */
 
 .about-title h2 {
-    font-size: 40px;
+    font-size: 2.5rem;
     text-align: center;
     padding: 3rem 1.6rem 2rem;
     font-weight: bolder;
@@ -252,8 +252,8 @@ nav {
 }
 
 .btn-about button {
-    width: 135px;
-    height: 38px;
+    width: 8.4rem;
+    height: 2.3rem;
     color: #fff;
     background: #B88E2F;
     border-style: none;
@@ -285,7 +285,7 @@ nav {
     color: white;
     border: none;
     cursor: pointer;
-    padding: 10px;
+    padding: 0.6rem;
     z-index: 1;
 }
 
@@ -300,7 +300,7 @@ nav {
 /* ============= SECTION CONTACT ============= */
 
 .contact-title h1 {
-    font-size: 40px;
+    font-size: 2.5rem;
     padding: 3rem 1.6rem 0.2rem;
     font-weight: bolder;
     text-align: center;
@@ -329,7 +329,7 @@ nav {
 
 .div-left-content span {
     color: #000;
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-left: 0.3rem;
 }
 
@@ -362,36 +362,36 @@ nav {
 }
 
 #form-right input {
-    width: 450px;
-    height: 55px;
+    width: 28.1rem;
+    height: 3.4rem;
     font: inherit;
     padding: 1.2rem 1.9rem;
-    border-radius: 10px;
+    border-radius: 0.6rem;
     border: 1px #9F9F9F;
     border-style: solid;
     outline: none;
 }
 
 #form-right textarea {
-    width: 450px;
-    height: 100px;
+    width: 28.1rem;
+    height: 6.2rem;
     font: inherit;
     padding: 1.2rem 1.9rem;
-    border-radius: 10px;
+    border-radius: 0.6rem;
     resize: vertical;
     border-color: #9F9F9F;
     outline: none;
 }
 
 #form-right button {
-    width: 180px;
-    height: 55px;
+    width: 11.2rem;
+    height: 3.4rem;
     color: #fff;
     font-weight: bolder;
     border-style: none;
     background: #B88E2F;
     margin-top: 1.6rem;
-    border-radius: 5px;
+    border-radius: 0.3rem;
     cursor: pointer;
 }
 
@@ -417,13 +417,13 @@ nav {
 .icon-box img {
     margin-right: 2.5rem;
     position: absolute;
-    width: 50px;
-    height: 50px;
+    width: 3.1rem;
+    height: 3.1rem;
 }
 
 .icon-box h2 {
     margin-left: 3.5rem;
-    font-size: 22px;
+    font-size: 1.3rem;
     color: #000;
 }
 
@@ -437,7 +437,7 @@ nav {
 
 @media screen and (max-width: 1083px) {
     .content-box h1 {
-        font-size: 42px;
+        font-size: 2.6rem;
     }
 
     .div-right {
@@ -445,27 +445,27 @@ nav {
     }
 
     .icon-box img {
-        width: 30px;
-        height: 30px;
+        width: 1.8rem;
+        height: 1.8rem;
     }
 
     .icon-box h2 {
-        font-size: 16px;
+        font-size: 1rem;
     }
 
     .icon-box span {
-        font-size: 12px;
+        font-size: 0.7rem;
     }
 }
 
 @media screen and (max-width: 884px) {
 
     .content-box h1 {
-        font-size: 34px;
+        font-size: 2.1rem;
     }
 
     .content-box p {
-        font-size: 16px;
+        font-size: 1rem;
     }
 
     #form-right {
@@ -548,18 +548,18 @@ nav {
     }
 
     .content-box h1 {
-        font-size: 30px;
+        font-size: 1.8rem;
     }
 
     .content-box p {
-        font-size: 15px;
+        font-size: 0.9rem;
     }
 }
 
 @media screen and (max-width: 600px) {
 
     .content-box h1 {
-        font-size: 26px;
+        font-size: 1.6rem;
     }
 }
 
